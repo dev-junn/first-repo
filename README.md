@@ -36,7 +36,7 @@ This repo is the first repo im my life.
 
 ## Reference
 
-- github: [gighub](https:github.com/)
+- github: [github](https:github.com/)
 - pydoc: [pydoc](https://docs.python.org/)
 - [node](https://www.nodejs.org/)
 
