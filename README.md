@@ -4,7 +4,7 @@
 
 ## Abstract
 
-This repo is the first repo im my life.
+This repo is the first repo in my life.
 
 ## Installation
 
